@@ -12,6 +12,6 @@ A bookmarklet that analyzes the current page and determines the frequency of  wo
 ## Usage:
 
 1. Clone repo to a new directory
-2. run npm install
-3. run grunt serve
+2. run 'npm install' & 'bower install' (to get the dependencies)
+3. run 'grunt serve'
 4. view the page at http://localhost:9000/
