@@ -9,8 +9,9 @@ A bookmarklet that analyzes the current page and determines the frequency of  wo
 
 3. Ignore all words under four characters in length ­ for example, words like "a", "an", "the" would all be ignored.
 
-##Notes:
-* Research what a bookmarklet is & how to set one up from this article:
-  http://www.smashingmagazine.com/2010/05/23/make-your-own-bookmarklets-with-jquery/
+## Usage:
 
-* Research tag cloud libraries.
+1. Clone repo to a new directory
+2. run npm install
+3. run grunt serve
+4. view the page at http://localhost:9000/
