@@ -15,3 +15,7 @@ A bookmarklet that analyzes the current page and determines the frequency of  wo
 2. run 'npm install' & 'bower install' (to get the dependencies)
 3. run 'grunt serve'
 4. view the page at http://localhost:9000/
+
+## Screenshot:
+
+![Image of Cheese-based Word Tag Cloud](http://s12.postimg.org/xbpgierf1/Screen_Shot_2015_03_01_at_7_28_40_PM.png)
